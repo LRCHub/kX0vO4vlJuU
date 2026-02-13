@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Euphoria",
+  "base_artist": "BTS",
+  "createdAt": "2026-02-13T07:05:11.156238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "Zomby",
+      "has_synced": false,
+      "path": "select/01_Euphoria_Zomby.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_Euphoria_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/03_Euphoria_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Euphoria - Alex Moreno Remix Radio Edit",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/04_Euphoria_-_Alex_Moreno_Remix_Radio_Edit_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Euphoria (Alex Moreno Remix Radio Edit)",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/05_Euphoria_(Alex_Moreno_Remix_Radio_Edit)_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Euphoria - Alex Moreno Remix",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/06_Euphoria_-_Alex_Moreno_Remix_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Euphoria (Alex Moreno Remix)",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/07_Euphoria_(Alex_Moreno_Remix)_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Euphoria - Carli Remix",
+      "artist": "Loreen",
+      "has_synced": false,
+      "path": "select/08_Euphoria_-_Carli_Remix_Loreen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Euphoria (Carli Remix)",
+      "artist": "Loreen",
+      "has_synced": false,
+      "path": "select/09_Euphoria_(Carli_Remix)_Loreen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Euphoria - Karaoke Version",
+      "artist": "Loreen",
+      "has_synced": false,
+      "path": "select/10_Euphoria_-_Karaoke_Version_Loreen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Euphoria (Karaoke Version)",
+      "artist": "Loreen",
+      "has_synced": false,
+      "path": "select/11_Euphoria_(Karaoke_Version)_Loreen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Euphoria - Single Version",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/12_Euphoria_-_Single_Version_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Euphoria (Single Version)",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/13_Euphoria_(Single_Version)_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Euphoria (feat. Travis Scott & Kaash Paige)",
+      "artist": "Don Toliver feat. Travis Scott & Kaash Paige",
+      "has_synced": true,
+      "path": "select/14_Euphoria_(feat._Travis_Scott_&_Kaash_Paige)_Don_Toliver_feat._Travis_Scott_&_Kaash_Paige.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/15_Euphoria_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Euphoria (feat. Travis Scott & Kaash Paige) (CHOPNOTSLOP REMIX)",
+      "artist": "Don Toliver;Travis Scott;Kaash Paige",
+      "has_synced": true,
+      "path": "select/16_Euphoria_(feat._Travis_Scott_&_Kaash_Paige)_(CHOPNOTSLOP_REMIX)_Don_Toliver;Travis_Scott;Kaash_Paige.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "Stacey Q",
+      "has_synced": true,
+      "path": "select/17_Euphoria_Stacey_Q.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Euphoria",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/18_Euphoria_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Euphoria",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Euphoria_BTS.txt"
+    }
+  ]
+}
